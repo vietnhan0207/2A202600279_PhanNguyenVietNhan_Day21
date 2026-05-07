@@ -215,11 +215,11 @@ Trong giao diện MLflow UI, hãy:
 
 Trước khi chuyển sang Bước 2, kiểm tra các điểm sau:
 
-- `src/train.py` chạy thành công không có lỗi.
-- File `outputs/metrics.json` tồn tại và chứa cả `accuracy` và `f1_score`.
-- File `models/model.pkl` tồn tại.
-- MLflow UI hiển thị ít nhất 3 lần chạy với các siêu tham số khác nhau.
-- `params.yaml` đã được cập nhật với bộ siêu tham số tốt nhất.
+- [x] `src/train.py` chạy thành công không có lỗi.
+- [x] File `outputs/metrics.json` tồn tại và chứa cả `accuracy` và `f1_score`.
+- [x] File `models/model.pkl` tồn tại.
+- [x] MLflow UI hiển thị ít nhất 3 lần chạy với các siêu tham số khác nhau.
+- [x] `params.yaml` đã được cập nhật với bộ siêu tham số tốt nhất.
 
 Chụp màn hình MLflow UI (cần nộp bài).
 
